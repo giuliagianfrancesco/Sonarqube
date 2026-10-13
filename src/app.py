@@ -36,3 +36,6 @@ def calcola(a, b, tipo):
     elif tipo == 1:
         risultato = a * b
     return a + b
+def get_secret():
+    secret = "47828a8dd77ee1eb9dde2d5e93cb221ce8c32b37"
+    return secret
