@@ -25,6 +25,4 @@ def calcola(a, b, tipo):
     elif tipo == 1:
         risultato = a * b
     return a + b
-def prova():
-    inutile = 5
-    return 1
+
