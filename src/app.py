@@ -10,7 +10,7 @@ oauth = OAuth2Session(
 
 token = oauth.fetch_token(
         'https://api.example.com/o/oauth2/token',
-        client_secret='example_Password') # Noncomp
+        client_secret='123_Password') # Noncomp
 DB_PASSWORD = "admin123"
 
 def esegui(comando):
